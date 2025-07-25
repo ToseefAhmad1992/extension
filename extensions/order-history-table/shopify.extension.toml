@@ -1,0 +1,6 @@
+name = "order-history-table"
+type = "theme"
+
+[[blocks]]
+name = "Order Message"
+target = "customer_account.order.status"
